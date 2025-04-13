@@ -1,5 +1,5 @@
 # Bitcamp2025-BoxBot
-STL Files and Arduino Code for our Bitcamp 2025 Project - BoxBot: A Dancing Robot!
+STL Files and Arduino Code for our Bitcamp 2025 Project - BoxBot: The Dancing Robot!
 
 ![IMG_4516](https://github.com/user-attachments/assets/1d73d12d-c360-4006-b3bc-e9e8b0b8e0b2)
 
